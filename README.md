@@ -55,7 +55,7 @@ Para calcular la valuación del portafolio, es necesario un análisis de series 
 
 Puedes explorar la interactividad del portafolio, analizar la distribución táctica por sector y observar las anotaciones macroeconómicas en los puntos de inflexión del mercado directamente en la Web App desplegada:
 
-**[Ver el Dashboard Interactivo Aquí](https://TU-LINK-DE-STREAMLIT.streamlit.app/)**
+**[Ver el Dashboard Interactivo Aquí](http://localhost:8501/)**
 
 ---
 
